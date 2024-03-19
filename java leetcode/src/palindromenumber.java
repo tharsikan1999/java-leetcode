@@ -38,7 +38,7 @@ class PalindromeNumber {
         if (isPalindrome(number)) {
             System.out.println("Input: x = " + number);
             System.out.println("Output: true");
-            System.out.println("Explanation: " + number + " reads as " + number + " from left to right and from right to left.");
+
         } else {
             System.out.println("Input: x = " + number);
             System.out.println("Output: false");
